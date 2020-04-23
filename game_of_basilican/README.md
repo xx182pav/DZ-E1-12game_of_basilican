@@ -1,9 +1,11 @@
 # game_of_basilican
 [![Travis][build-badge]][build]
 
-[build-badge]: https://img.shields.io/travis/ githubname / reponame /master.png?style=flat-square
+[build-badge]: https://img.shields.io/travis/ githubname / DZ-E1-12game_of_basilican
+ /master.png?style=flat-square
 
-[build]: https://travis-ci.org/ githubname / reponame
+[build]: https://travis-ci.org/ githubname / DZ-E1-12game_of_basilican
+
 
 This is a small app called the gallows game. 
 How to start:
