@@ -1,0 +1,19 @@
+[
+  "homework_tests_test_game.py::test_choose_word",
+  "homework_tests_test_game.py::test_calcualte_score_positive",
+  "homework_tests_test_game.py::test_calcualte_score_negative",
+  "homework_tests_test_game.py::test_create_game",
+  "homework_tests_test_game.py::test_guess_not_a_letter",
+  "homework_tests_test_game.py::test_guess_game_over",
+  "homework_tests_test_game.py::test_guess_success",
+  "homework_tests_test_game.py::test_guess_not_success",
+  "homework_tests_test_game.py::test_get_result_fail[4]",
+  "homework_tests_test_game.py::test_get_result_fail[5]",
+  "homework_tests_test_game.py::test_get_result_continue[0]",
+  "homework_tests_test_game.py::test_get_result_continue[3]",
+  "homework_tests_test_game.py::test_get_result_win[0]",
+  "homework_tests_test_game.py::test_get_result_win[3]",
+  "homework_tests_test_game.py::test_no_next_step[Result.WIN]",
+  "homework_tests_test_game.py::test_no_next_step[Result.FAIL]",
+  "homework_tests_test_game.py::test_next_step"
+]
